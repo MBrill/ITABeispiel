@@ -1,0 +1,8 @@
+# Unser erstes .gitignore für unser Beispiel-Projekt
+
+# Backup-Files unserer ASCII-Editoren
+*~
+*.bak
+
+# Profile-Verzeichnisse aus der Kontrollfrage
+[Pp]rofile/
