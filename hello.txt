@@ -1,3 +1,6 @@
 Hello World!
 
 Diese Änderung wurde im Branch master durchgeführt!
+
+
+Das ist ein hotfix, im Branch hotfix, der aus master erzeugt wurde!
