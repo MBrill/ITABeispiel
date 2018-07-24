@@ -4,3 +4,5 @@ Diese Änderung wurde im Branch master durchgeführt!
 
 
 Das ist ein hotfix, im Branch hotfix, der aus master erzeugt wurde!
+
+Dieser Eintrag ist der erste Eintrag im Zweig develop.
