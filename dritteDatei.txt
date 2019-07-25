@@ -1,0 +1,4 @@
+Das ist eine dritte Datei im Projekt, erstellt im Branch develop.
+
+Wir werden diese Datei einmal commiten und anschließend ändern, bevor wir
+sie mit rebase in den develop branch einbauen.
