@@ -1,1 +1,3 @@
 Das ist die zweite Datei im Projekt, erstellt im Branch develop.
+
+Wir verändern diese Datei im branch develop, und führen anschließend ein rebase von topic aus!
